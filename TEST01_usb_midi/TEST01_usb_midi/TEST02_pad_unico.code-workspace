@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "TEST02_pad_unico",
+			"path": "../../../../TEST02_pad_unico"
+		},
+		{
+			"name": "TEST01_usb_midi",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
